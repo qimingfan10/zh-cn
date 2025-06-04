@@ -9,6 +9,8 @@
 title                    : "罗钰"
 description              : "信息与计算科学"
 repository               : "qimingfan10/qimingfan10.github.io"
+url                      : "https://qimingfan10.github.io"
+baseurl                  : "/zh-cn"
 google_scholar_stats_use_cdn : false
 
 # google analytics
