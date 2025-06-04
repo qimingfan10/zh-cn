@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='about-me'></span>
+
 我现在是中国海洋大学信息与计算科学专业的大三学生。
 学术成果方面，目前我已有一篇学术论文被JCR三区期刊录用；另有三篇期刊论文（一篇目标二区，小修后审稿中；两篇目标四区，审稿中）和一篇B类会议论文（ACL ARR 2025）正在积极的评审过程中。
 
@@ -31,7 +33,7 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文与成果
+# 📝 论文专利
 
 ### 已录用/发表
 
