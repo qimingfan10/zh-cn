@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 我现在是中国海洋大学信息与计算科学专业的大三学生。
-学术成果方面，目前我已有一篇学术论文被JCR Q1期刊录用,一篇学术论文被JCR Q2期刊录用；另有两篇期刊论文（一篇JCR Q3审稿中；一篇JCR Q4审稿中）和一篇B类会议论文（ACL ARR 2025）正在积极的评审过程中。
+学术成果方面，目前我已有一篇学术论文被JCR Q1期刊录用,一篇学术论文被JCR Q2期刊录用；另有两篇期刊论文（一篇JCR Q3；一篇JCR Q4）和一篇B类会议论文（ACL ARR 2025）正在积极的评审过程中。
 
 我的研究领域包括：
 
@@ -40,17 +40,19 @@ redirect_from:
 -----
   - Jingzi Zhu, **Yu Luo**, Tao Li, Yanhai Gan and Junyu Dong. [Prediction of the Marine Dynamic Environment for Arctic Ice-Based Buoys Using Historical Profile Data]. *Journal of Marine Science and Engineering*, 2025, 13(6): 1003. (JCR:Q2)
     [[网页]](https://www.mdpi.com/2077-1312/13/6/1003) [[PDF]](https://www.google.com/search?q=https://www.mdpi.com/2077-1312/13/6/1003/pdf)
-  - Xueying Zeng, Baixiang Huang, **Yu Luo**, Guangyu Wei, Songyan He, Yushuang Shao. A Deep Learning Model for Coronary Artery Segmentation and Quantitative Stenosis Detection in Angiographic Images. *arXiv preprint arXiv:2406.00492*. (**已被JCR Q1期刊medical Physics录用**)
+  - Xueying Zeng, Baixiang Huang, **Yu Luo**, Guangyu Wei, Songyan He, Yushuang Shao. A Deep Learning Model for Coronary Artery Segmentation and Quantitative Stenosis Detection in Angiographic Images. *arXiv preprint arXiv:2406.00492*. (**已被JCR Q1期刊Medical Physics录用**)
       [[arXiv]](https://arxiv.org/abs/2406.00492) [[PDF]](https://www.google.com/search?q=https://arxiv.org/pdf/2406.00492.pdf)
   
 
 ### 在审论文/预印本
 
 -----
+    - Baixiang Huang, **Yu Luo**, Yumeng Zhuang, Songyan He, Chunxin Yuan. [LncMamba: A Deep Learning Model for lncRNA Localization Prediction Based on the Mamba Model]. *bioRxiv preprint*. (JCR Q3期刊审稿中)
+    [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2025.03.29.646080v2.abstract) 
+    [[PDF]](https://www.biorxiv.org/content/10.1101/2025.03.29.646080v2.full.pdf)
 
-    - Baixiang Huang, **Yu Luo**, Yumeng Zhuang, Songyan He, Chunxin Yuan. [LncMamba: A Deep Learning Model for lncRNA Localization Prediction Based on the Mamba Model]. bioRxiv preprint. doi:10.1101/2025.03.29.646080v2.(JCR Q3期刊审稿中)[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2025.03.29.646080v2.abstract) [[PDF]](https://www.biorxiv.org/content/10.1101/2025.03.29.646080v2.full.pdf)
-
-    - **Yu Luo**, Baixiang Huang, Jingzi Zhu, Xueying Zeng, and Qing Zhang. "Detection of Atrial Fibrillation with a Hybrid Deep Learning Model and Time-Frequency Representations." medRxiv. Posted June 4, 2025. Preprint. [[PDF]](https://doi.org/10.1101/2025.06.03.25328929)
+    - **Yu Luo**, Baixiang Huang, Jingzi Zhu, Xueying Zeng, and Qing Zhang. [Detection of Atrial Fibrillation with a Hybrid Deep Learning Model and Time-Frequency Representations.] medRxiv. Posted June 4, 2025. Preprint. (JCR Q4期刊审稿中)
+    [[PDF]](https://doi.org/10.1101/2025.06.03.25328929)
 
     - Guangyu Wei, Ke Han, Yueming Lyu, **Yu Luo**, Yue Jiang, Caifeng Shan . [EASE: Evaluation-Aware Selection of Experts for Real-Time Fake News Detection]. (B类会议 ACL ARR 2025 在审)
       *（ACL ARR为滚动评审系统，此处指已提交并处于评审流程中）*
