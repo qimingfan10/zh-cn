@@ -47,13 +47,13 @@ redirect_from:
 ### 在审论文/预印本
 
 -----
-    - Baixiang Huang, **Yu Luo**, Yumeng Zhuang, Songyan He, Chunxin Yuan. [LncMamba: A Deep Learning Model for lncRNA Localization Prediction Based on the Mamba Model]. *bioRxiv preprint*. doi:10.1101/2025.03.29.646080v2.(JCR Q3期刊审稿中)
-    [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2025.03.29.646080v2.abstract) [[PDF]](https://www.biorxiv.org/content/10.1101/2025.03.29.646080v2.full.pdf)
+
+    - Baixiang Huang, **Yu Luo**, Yumeng Zhuang, Songyan He, Chunxin Yuan. [LncMamba: A Deep Learning Model for lncRNA Localization Prediction Based on the Mamba Model]. bioRxiv preprint. doi:10.1101/2025.03.29.646080v2.(JCR Q3期刊审稿中)[[bioRxiv]](https://www.biorxiv.org/content/10.1101/2025.03.29.646080v2.abstract) [[PDF]](https://www.biorxiv.org/content/10.1101/2025.03.29.646080v2.full.pdf)
 
     - **Yu Luo**, Baixiang Huang, Jingzi Zhu, Xueying Zeng, and Qing Zhang. "Detection of Atrial Fibrillation with a Hybrid Deep Learning Model and Time-Frequency Representations." medRxiv. Posted June 4, 2025. Preprint. [[PDF]](https://doi.org/10.1101/2025.06.03.25328929)
 
-  - Guangyu Wei, Ke Han, Yueming Lyu, **Yu Luo**, Yue Jiang, Caifeng Shan . [EASE: Evaluation-Aware Selection of Experts for Real-Time Fake News Detection]. (B类会议 ACL ARR 2025 在审)
-    *（ACL ARR为滚动评审系统，此处指已提交并处于评审流程中）*
+    - Guangyu Wei, Ke Han, Yueming Lyu, **Yu Luo**, Yue Jiang, Caifeng Shan . [EASE: Evaluation-Aware Selection of Experts for Real-Time Fake News Detection]. (B类会议 ACL ARR 2025 在审)
+      *（ACL ARR为滚动评审系统，此处指已提交并处于评审流程中）*
 
 ### 专利
 -----
