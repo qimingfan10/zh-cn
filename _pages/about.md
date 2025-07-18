@@ -23,6 +23,7 @@ redirect_from:
 我的研究领域包括：
 
 - 深度学习
+- 计算机视觉
 - 计算数学
 - 海洋科学
 
@@ -40,8 +41,7 @@ redirect_from:
 -----
   - Jingzi Zhu, **Yu Luo**, Tao Li, Yanhai Gan and Junyu Dong. [Prediction of the Marine Dynamic Environment for Arctic Ice-Based Buoys Using Historical Profile Data]. *Journal of Marine Science and Engineering*, 2025, 13(6): 1003. (JCR:Q2)
     [[网页]](https://www.mdpi.com/2077-1312/13/6/1003) [[PDF]](https://www.google.com/search?q=https://www.mdpi.com/2077-1312/13/6/1003/pdf)
-  - Xueying Zeng, Baixiang Huang, **Yu Luo**, Guangyu Wei, Songyan He, Yushuang Shao. A Deep Learning Model for Coronary Artery Segmentation and Quantitative Stenosis Detection in Angiographic Images. *arXiv preprint arXiv:2406.00492*. (**已被JCR Q1期刊Medical Physics录用**)
-      [[arXiv]](https://arxiv.org/abs/2406.00492) [[PDF]](https://www.google.com/search?q=https://arxiv.org/pdf/2406.00492.pdf)
+  - Huang B, **Luo Y**, Wei G, et al. [Deep learning model for coronary artery segmentation and quantitative stenosis detection in angiographic images]. *Med Phys*, 2025; 52:e17970. [[网页]](https://doi.org/10.1002/mp.17970)(JCR:Q1)
   
 
 ### 在审论文/预印本
