@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 我现在是中国海洋大学信息与计算科学专业的大三学生。
-学术成果方面，目前我已有一篇学术论文被JCR Q1期刊录用,一篇学术论文被JCR Q2期刊录用；另有两篇期刊论文（一篇JCR Q3；一篇JCR Q4）和一篇B类会议论文（ACL ARR 2025）正在积极的评审过程中。
+学术成果方面，目前我已有一篇学术论文被JCR Q1期刊录用,一篇学术论文被JCR Q2期刊录用,一篇学术论文被JCR Q3期刊录用；另有一篇期刊论文（JCR Q4）和一篇A类会议论文（WWW）正在积极的评审过程中。
 
 我的研究领域包括：
 
@@ -26,6 +26,10 @@ redirect_from:
 - 计算机视觉
 - 计算数学
 - 海洋科学
+
+我的英语水平：
+
+四级603，六级440
 
 <span class='anchor' id='-xl'></span>
 
@@ -42,25 +46,24 @@ redirect_from:
   - Jingzi Zhu, **Yu Luo**, Tao Li, Yanhai Gan and Junyu Dong. [Prediction of the Marine Dynamic Environment for Arctic Ice-Based Buoys Using Historical Profile Data]. *Journal of Marine Science and Engineering*, 2025, 13(6): 1003. (JCR:Q2)
     [[网页]](https://www.mdpi.com/2077-1312/13/6/1003) [[PDF]](https://www.google.com/search?q=https://www.mdpi.com/2077-1312/13/6/1003/pdf)
   - Huang B, **Luo Y**, Wei G, et al. [Deep learning model for coronary artery segmentation and quantitative stenosis detection in angiographic images]. *Med Phys*, 2025; 52:e17970. [[网页]](https://doi.org/10.1002/mp.17970)(JCR:Q1)
-  
+  - Baixiang Huang, **Yu Luo**, Yumeng Zhuang, Songyan He, Chunxin Yuan. [LncMamba: A Deep Learning Model for lncRNA Localization Prediction Based on the Mamba Model]. *Biochemical and Biophysical Research Communications*. (JCR:Q3)
+  [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0006291X25012367)   
 
 ### 在审论文/预印本
 
 -----
-  - Baixiang Huang, **Yu Luo**, Yumeng Zhuang, Songyan He, Chunxin Yuan. [LncMamba: A Deep Learning Model for lncRNA Localization Prediction Based on the Mamba Model]. *bioRxiv preprint*. (JCR Q3期刊审稿中)
-  [[bioRxiv]](https://www.biorxiv.org/content/10.1101/2025.03.29.646080v2.abstract) 
-  [[PDF]](https://www.biorxiv.org/content/10.1101/2025.03.29.646080v2.full.pdf)
 
   - **Yu Luo**, Baixiang Huang, Jingzi Zhu, Xueying Zeng, and Qing Zhang. [Detection of Atrial Fibrillation with a Hybrid Deep Learning Model and Time-Frequency Representations.] medRxiv. Posted June 4, 2025. Preprint. (JCR Q4期刊审稿中)
   [[PDF]](https://doi.org/10.1101/2025.06.03.25328929)
 
-  - Guangyu Wei, Ke Han, Yueming Lyu, **Yu Luo**, Yue Jiang, Caifeng Shan . [EASE: Evaluation-Aware Selection of Experts for Real-Time Fake News Detection]. (B类会议 ACL ARR 2025 在审)
-    *（ACL ARR为滚动评审系统，此处指已提交并处于评审流程中）*
+  - Guangyu Wei, Ke Han, Yueming Lyu, **Yu Luo**, Yue Jiang, Caifeng Shan . [EASE: Evaluation-Aware Selection of Experts for Real-Time Fake News Detection]. (A类会议 WWW 在审)
 
 ### 专利
 -----
 
-曾雪迎;黄柏翔;`罗钰`;魏光宇;何松晏;邵玉爽. 一种从造影图像中全自动血管分割与狭窄检测的方法. [[网页]](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTA1MjYyMjA3MDQSEENOMjAyNDExNTI3MDc2LlgaCHVpY3JsbzNh)
+曾雪迎;黄柏翔;`罗钰`;魏光宇;何松晏;邵玉爽. [一种从造影图像中全自动血管分割与狭窄检测的方法.];专利号:202411527076.X;(一项发明专利进入实质审查阶段) [[网页]](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTA1MjYyMjA3MDQSEENOMjAyNDExNTI3MDc2LlgaCHVpY3JsbzNh)
+
+`罗钰`;黄柏翔;朱婧滋;曾雪迎.[一种基于时频分析和深度学习的房颤检测方法.];专利号：2025101875776(一项发明专利进入形式审查阶段)
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -70,6 +73,7 @@ redirect_from:
 - *2024.10* 获得 全国大学生数学建模竞赛山东省二等奖
 - *2024.07* 获得 "互联网+"中国国际大学生创新大赛省铜
 - *2023.10* 获得 全国大学生数学建模竞赛山东省一等奖
+- *2023.11* 获得 中国海洋大学优秀学生
 
 <!-- <span class='anchor' id='-xshy'></span>
 
@@ -82,3 +86,4 @@ redirect_from:
 # 💻 工作实习
 - *2024.09 - 2025.02*, 青岛奋泰科技有限公司，机器人工程师
 - *2025.02 - 至今*, 北京上仪京工仪器仪表有限责任公司，生物医学开发员
+
