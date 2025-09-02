@@ -31,6 +31,10 @@ redirect_from:
 
 四级603，六级440
 
+我的专业排名：
+
+15/86，为信息与计算科学专业前17％
+
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
@@ -61,9 +65,10 @@ redirect_from:
 ### 专利
 -----
 
-曾雪迎;黄柏翔;`罗钰`;魏光宇;何松晏;邵玉爽. [一种从造影图像中全自动血管分割与狭窄检测的方法.];专利号:202411527076.X;(一项发明专利进入实质审查阶段) [[网页]](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTA1MjYyMjA3MDQSEENOMjAyNDExNTI3MDc2LlgaCHVpY3JsbzNh)
+  - 曾雪迎;黄柏翔;`罗钰`;魏光宇;何松晏;邵玉爽. [一种从造影图像中全自动血管分割与狭窄检测的方法.];专利号:202411527076.X;(一项发明专利进入实质审查阶段) [[网页]](https://d.wanfangdata.com.cn/patent/ChhQYXRlbnROZXdTMjAyNTA1MjYyMjA3MDQSEENOMjAyNDExNTI3MDc2LlgaCHVpY3JsbzNh)
 
-`罗钰`;黄柏翔;朱婧滋;曾雪迎.[一种基于时频分析和深度学习的房颤检测方法.];专利号：2025101875776(一项发明专利进入形式审查阶段)
+
+  - `罗钰`;黄柏翔;朱婧滋;曾雪迎.[一种基于时频分析和深度学习的房颤检测方法.];专利号：2025101875776(一项发明专利进入形式审查阶段)
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -86,4 +91,5 @@ redirect_from:
 # 💻 工作实习
 - *2024.09 - 2025.02*, 青岛奋泰科技有限公司，机器人工程师
 - *2025.02 - 至今*, 北京上仪京工仪器仪表有限责任公司，生物医学开发员
+
 
