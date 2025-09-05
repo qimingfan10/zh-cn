@@ -17,6 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 罗钰
+电话/微信：13787687600  
+QQ：1700712032
+
+**专业技能** * **编程语言:** Python (熟练), C++, MATLAB
+* **深度学习框架:** PyTorch (精通), TensorFlow (熟悉)
+* **开发工具:** Git, Docker, LaTeX, Linux
+* **数学建模:** 熟练掌握各类优化算法、统计分析与机器学习模型
+
 我是一名对科研充满热忱的中国海洋大学大三本科生，专业成绩位列前17%（15/86）。我的核心优势在于将扎实的数理基础与编程能力相结合，并已在深度学习的交叉应用领域产出了一系列实质性研究成果。
 
 截至目前，我已在**JCR Q1-Q3区期刊上发表/录用论文三篇**，并作为**第一作者**完成了一篇关于心房颤动智能检测的期刊论文（在审），另有一篇A类会议论文（WWW）在投。这些研究项目不仅让我对计算机视觉、生物医学信号处理等领域有了深入的理解，也全面锻炼了我独立开展科研工作的能力——从文献调研、算法设计与实现（精通Python, PyTorch）到英文学术论文的撰写（CET-4: 603，CET-6：440），我已具备完整的科研流程经验。
@@ -39,7 +48,7 @@ redirect_from:
 - Jingzi Zhu, **Yu Luo**, Tao Li, Yanhai Gan and Junyu Dong. [Prediction of the Marine Dynamic Environment for Arctic-Ice-Based Buoys Using Historical Profile Data]. *Journal of Marine Science and Engineering*, 2025, 13(6): 1003. (JCR:Q2)
   [[网页]](https://www.mdpi.com/2077-1312/13/6/1003) [[PDF]](https://www.google.com/search?q=https://www.mdpi.com/2077-1312/13/6/1003/pdf)
 - Baixiang Huang, **Yu Luo**, Yumeng Zhuang, Songyan He, Chunxin Yuan. [LncMamba: A Deep Learning Model for lncRNA Localization Prediction Based on the Mamba Model]. *Biochemical and Biophysical Research Communications*. (JCR:Q3)
-  [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0006291X25012367)   
+  [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S0006291X25012367)    
 
 ### 在审论文/预印本 (Under Review/Preprints)
 
@@ -74,4 +83,3 @@ redirect_from:
 - *2023.10* 获得 全国大学生数学建模竞赛 **山东省一等奖**
 - *2024.07* 获得 "互联网+"中国国际大学生创新大赛 **省铜奖**
 - *2023.11* 获得 **中国海洋大学优秀学生** 称号
-
