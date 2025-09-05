@@ -35,7 +35,7 @@ redirect_from:
 ### 已录用/发表 (Accepted/Published)
 
 -----
-- Huang B, **Luo Y**, Wei G, et al. [Deep learning model for coronary artery segmentation and quantitative stenosis detection in angiographic images]. *Medical Physics*, 2025; 52:e17970. (JCR:Q1)
+- Huang B, **Luo Y**, Wei G, et al. [Deep learning model for coronary artery segmentation and quantitative stenosis detection in angiographic images]. *Medical Physics*, 2025; 52:e17970. [[网页]](https://doi.org/10.1002/mp.17970)(JCR:Q1)
 - Jingzi Zhu, **Yu Luo**, Tao Li, Yanhai Gan and Junyu Dong. [Prediction of the Marine Dynamic Environment for Arctic-Ice-Based Buoys Using Historical Profile Data]. *Journal of Marine Science and Engineering*, 2025, 13(6): 1003. (JCR:Q2)
   [[网页]](https://www.mdpi.com/2077-1312/13/6/1003) [[PDF]](https://www.google.com/search?q=https://www.mdpi.com/2077-1312/13/6/1003/pdf)
 - Baixiang Huang, **Yu Luo**, Yumeng Zhuang, Songyan He, Chunxin Yuan. [LncMamba: A Deep Learning Model for lncRNA Localization Prediction Based on the Mamba Model]. *Biochemical and Biophysical Research Communications*. (JCR:Q3)
@@ -74,3 +74,4 @@ redirect_from:
 - *2023.10* 获得 全国大学生数学建模竞赛 **山东省一等奖**
 - *2024.07* 获得 "互联网+"中国国际大学生创新大赛 **省铜奖**
 - *2023.11* 获得 **中国海洋大学优秀学生** 称号
+
