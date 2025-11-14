@@ -24,7 +24,7 @@ redirect_from:
 
 我是一名对科研充满热忱的中国海洋大学大四本科生，专业成绩位列前17%（15/86）。我的核心优势在于将扎实的数理基础与编程能力相结合，并已在深度学习的交叉应用领域产出了一系列实质性研究成果。
 
-截至目前，我已在**JCR Q1-Q3区期刊上发表/录用论文三篇**，并作为**第一作者**完成了一篇关于心房颤动智能检测的期刊论文（在审），另有一篇A类会议论文（WWW）在投。这些研究项目不仅让我对计算机视觉、生物医学信号处理等领域有了深入的理解，也全面锻炼了我独立开展科研工作的能力——从文献调研、算法设计与实现（Python, PyTorch）到英文学术论文的撰写（CET-4: 603，CET-6：440），我已具备完整的科研流程经验。
+截至目前，我已在**JCR Q1-Q3区期刊上发表/录用论文三篇**，并作为**第一作者**完成了一篇关于心房颤动智能检测的期刊论文（在审），另有一篇A类会议论文在投。这些研究项目不仅让我对计算机视觉、生物医学信号处理等领域有了深入的理解，也全面锻炼了我独立开展科研工作的能力——从文献调研、算法设计与实现（Python, PyTorch）到英文学术论文的撰写（CET-4: 603，CET-6：440），我已具备完整的科研流程经验。
 
 我渴望在一个富有挑战性的学术环境中继续深造，并坚信我的研究背景和实践经验能为您的团队做出有价值的贡献，微信/电话：13787687600。
 
@@ -51,7 +51,6 @@ redirect_from:
 -----
 - **Yu Luo** (第一作者), Baixiang Huang, Jingzi Zhu, Xueying Zeng, and Qing Zhang. [Detection of Atrial Fibrillation with a Hybrid Deep Learning Model and Time-Frequency Representations.] medRxiv. Posted June 4, 2025. Preprint. (JCR Q4期刊审稿中)
   [[PDF]](https://doi.org/10.1101/2025.06.03.25328929)
-- Guangyu Wei, Ke Han, Yueming Lyu, **Yu Luo**, Yue Jiang, Caifeng Shan . [EASE: Evaluation-Aware Selection of Experts for Real-Time Fake News Detection]. (A类会议 WWW 在审)
 
 ### 专利 (Patents)
 -----
@@ -79,6 +78,7 @@ redirect_from:
 - *2023.10* 获得 全国大学生数学建模竞赛 **山东省一等奖**
 - *2024.07* 获得 "互联网+"中国国际大学生创新大赛 **省铜奖**
 - *2023.11* 获得 **中国海洋大学优秀学生** 称号
+
 
 
 
